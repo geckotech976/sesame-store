@@ -1,4 +1,4 @@
-import './style.css'
+
 
 // Add scroll effect to header
 const header = document.querySelector('.header');
