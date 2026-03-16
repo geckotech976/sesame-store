@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#7b8c82" />
+  <!-- Hexagon with S shape inspiration -->
+  <path d="M 200 40 L 338.5 120 L 338.5 280 L 200 360 L 61.5 280 L 61.5 120 Z" fill="#ffffff" />
+  <path d="M 200 65 L 315 130 L 315 270 L 200 335 L 85 270 L 85 130 Z" fill="#7b8c82" />
+  
+  <!-- "S" Shape Inside -->
+  <path d="M 270 140 C 270 120, 250 100, 200 100 C 150 100, 130 120, 130 140 C 130 180, 270 190, 270 230 C 270 270, 230 290, 200 290 C 150 290, 130 270, 130 250" fill="none" stroke="#ffffff" stroke-width="35" stroke-linecap="round" />
+</svg>
