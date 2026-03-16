@@ -1,5 +1,3 @@
-
-
 // Add scroll effect to header
 const header = document.querySelector('.header');
 
